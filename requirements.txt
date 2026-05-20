@@ -24,7 +24,7 @@ fal-client
 
 # mini-swe-agent dependencies (for terminal tool)
 # Note: Install mini-swe-agent itself with: pip install -e ./mini-swe-agent
-litellm>=1.75.5
+litellm>=1.83.10
 typer
 platformdirs
 
